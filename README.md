@@ -38,4 +38,4 @@ From any Form designer, drag and drop the plugin `NAC Files Viewer` and configur
 
 The plugin should render as shown below : 
 
-![Screenshot](Images/Plugin-run.png)
+![Screenshot](Images/Plugin-execute.png)
