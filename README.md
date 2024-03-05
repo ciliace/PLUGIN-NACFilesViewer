@@ -15,8 +15,17 @@ To install the plugin on Nintex Automation Cloud :
 
 1. Open your tenant Nintex Automation Cloud:
 2. From the navigation, select **Automate** > **Forms plugins**, and click **Add plugin**
-3. ...
+3. Select **Link to URL** and fill the properties as below :
 
+| **Information**    | Details                                                                                                  |
+|----------------|----------------------------------------------------------------------------------------------------------|
+| **Source URL**     | [https://ciliace.github.io/PLUGIN-NACFilesViewer/PLUGIN-NACFilesViewer.min.js](https://ciliace.github.io/PLUGIN-NACFilesViewer/PLUGIN-NACFilesViewer.min.js) |
+| **Element Name**   | `plugin-nacfilesviewer`                                                                                  |
+| **Description**    | This provides an interface to view files that have been submitted at the start of a workflow or through tasks. |
 
+4. Click **Add plugin**
 
+## Usage
+
+Once installed,
 
