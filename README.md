@@ -23,6 +23,10 @@ To install the plugin on Nintex Automation Cloud :
 | **Element Name**   | `plugin-nacfilesviewer`                                                                                  |
 | **Description**    | This provides an interface to view files that have been submitted at the start of a workflow or through tasks. |
 
+<p align="center">
+  <img src="https://ciliace.github.io/PLUGIN-NACFilesViewer/Images/Plugin-install.png" alt="ALT_TEXT" style="max-width: 100%; border: 2px solid #000 ; display: block; margin: auto;"/>
+</p>
+
 4. Click **Add plugin**
 
 ## Usage
