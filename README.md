@@ -28,7 +28,14 @@ To install the plugin on Nintex Automation Cloud :
 
 4. Click **Add plugin**
 
+## Design
+
+From any Form designer, drag and drop the plugin `NAC Files Viewer` and configure :
+
+![Screenshot](Images/Plugin-configure.png)
+
 ## Usage
 
-Once installed,
+The plugin should render as shown below : 
 
+![Screenshot](Images/Plugin-run.png)
